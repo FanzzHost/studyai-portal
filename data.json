@@ -1,4 +1,29 @@
 {
-  "versions": [],
-  "changelogs": []
+  "versions": [
+    {
+      "id": "v_1",
+      "version": "1.1",
+      "date": "2026-06-05",
+      "size": "261.36 KB",
+      "status": "stable",
+      "link": "#",
+      "description": "Versi stabil dengan fitur AI Study Dan Latihan Soal.",
+      "downloads": 5,
+      "fileSize": 267636,
+      "hasLocalFile": true
+    }
+  ],
+  "changelogs": [
+    {
+      "id": "c_1",
+      "version": "1.1",
+      "date": "2026-06-05",
+      "changes": [
+        "Support upload gambar soal via API Groq",
+        "Menu catatan dengan title dan kategori",
+        "Tampilan UI/UX diperbarui",
+        "Fix bug loading di beberapa device"
+      ]
+    }
+  ]
 }
