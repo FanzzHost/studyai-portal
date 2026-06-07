@@ -39,6 +39,17 @@
   ],
   "changelogs": [
     {
+      "id": "c_1780859563784",
+      "version": "1.2",
+      "date": "2026-06-07",
+      "changes": [
+        "Fix All Bug",
+        "Fix API",
+        "New System Belajar",
+        "+ AI Chat (Vision Comingsoon)"
+      ]
+    },
+    {
       "id": "c_1",
       "version": "1.1",
       "date": "2026-06-05",
