@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "id": "v_1780859369792",
+      "version": "1.1",
+      "date": "2026-06-04",
+      "size": "External",
+      "status": "stable",
+      "link": "https://www.mediafire.com/file/w5jqmq38delj31i/StudyAI_1.1.apk/file",
+      "description": "Not Recommended \n\nVersi Ini Sudak Tidak Stabil, Silahkan Update Ke Versi Terbaru",
+      "downloads": 0,
+      "fileSize": 0,
+      "hasLocalFile": false
+    },
+    {
       "id": "v_1",
       "version": "1.1",
       "date": "2026-06-05",
@@ -10,7 +22,7 @@
       "description": "Versi stabil dengan fitur AI Study Dan Latihan Soal.",
       "downloads": 5,
       "fileSize": 267636,
-      "hasLocalFile": true
+      "hasLocalFile": false
     }
   ],
   "changelogs": [
