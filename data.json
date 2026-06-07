@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "id": "v_1780859468245",
+      "version": "1.2",
+      "date": "2026-06-07",
+      "size": "External",
+      "status": "stable",
+      "link": "https://www.mediafire.com/file/m2wb84gm4sjcvl5/StudyAI_1.2.apk/file",
+      "description": "Versi Recommended",
+      "downloads": 0,
+      "fileSize": 0,
+      "hasLocalFile": false
+    },
+    {
       "id": "v_1780859369792",
       "version": "1.1",
       "date": "2026-06-04",
